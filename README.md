@@ -1,6 +1,7 @@
 # Manual-Testing-Test-Charters
 
-Manual Tests for Test environment https://demostore.x-cart.com/ (www.x-cart.com). 
+Manual Tests for Test environment https://demostore.x-cart.com/ (www.x-cart.com).
+
 Manual Test written in Test Charters.
 
 Manual Test for 4 (four) functionality according to the given documentation.
